@@ -4,7 +4,7 @@ import MyPosts from "./MyPosts/MyPosts";
 
 const Profile = () => {
   return (
-    <div className={style.content}>
+    <div>
       <div>
         <img src="https://resetdoc.b-cdn.net/wp-content/uploads/2021/11/ebrei-amazigh_slider.jpg" />
       </div>
